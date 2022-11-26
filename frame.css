@@ -1,0 +1,12 @@
+div
+{
+    /* background-color: rgb(198, 102, 6); */
+
+     /* border-color: rgb(0, 255, 81); */
+     border: 50px solid;
+     text-align: center;
+     background-color: aquamarine;
+     border-color: blue;
+     border: none;
+
+}

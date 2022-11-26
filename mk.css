@@ -1,0 +1,21 @@
+table {
+    
+    font-size:1cm;
+    color: rgb(130, 39, 3);
+    border-color: blue;
+    padding: 10px;
+     margin: 60px; 
+     background-color: rgb(4, 5, 5); 
+     /* padding ->  table ke arround Equal distance and margin ->Top to Bottom Distance */
+    
+}
+th{
+    color: black;
+    background-color: rgb(3, 140, 155);
+}
+td{
+    background-color: rgb(193, 127, 255);
+}
+a{
+    font-size: 40px;
+}
